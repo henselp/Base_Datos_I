@@ -1,0 +1,15 @@
+--
+-- Tarea 5 - Parte #1 del Proyecto de Aula
+-- ENLACE A VIDEO (youtube, vimeo, drive de google, entre otros.
+--
+-- Miembros del grupo
+--Henry Sepulveda Serna
+--Julian Jimenez Londoño
+--Santiago Medina Castañeda
+
+
+--
+-- Colocar el enlace al video con nombre "20252-PA-et0057-tia6-DML-equipo-2-video"
+
+-- https://drive.google.com/file/d/1RoQIqZI0tjgn_GCaTjfJLWUOENSBhnxr/view?usp=sharing
+
